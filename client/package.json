@@ -46,5 +46,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "https://immense-spire-85200.herokuapp.com/"
 }
